@@ -4,7 +4,7 @@
   <samp>
     I'm Seraph :wave:
     <br><br>
-    I work as a Fullstack Developer on both :iphone: and Web :globe_with_meridians: platform!
+    I work as a Fullstack Developer on both :iphone: and Web :globe_with_meridians: platform at at <a href="https://www.getfu.com.au/">GET FU Holdings</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !
   </samp>
 </p>
 
