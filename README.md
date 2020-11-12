@@ -12,7 +12,7 @@
 - Data Structure & Algorithm
 - React/React Native
 - SQL & NoSQL (Databse design/Indexing/Performance)
-- Python/C#
+- Python/C#/NodeJS
 - System Design (Docker/K8s/Serverless - Microservices)
 
 ## Languages I know
