@@ -13,7 +13,7 @@
 - React/React Native
 - SQL & NoSQL (Databse design/Indexing/Performance)
 - Python/C#/NodeJS
-- System Design (Docker/K8s/Serverless - Microservices)
+- System Design (Docker/K8s/Serverless/AWS Services - Microservices)
 
 ## Languages I know
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
