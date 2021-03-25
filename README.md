@@ -11,7 +11,7 @@
 ## ✨ My Expertise
 - Data Structure & Algorithm
 - React/React Native
-- SQL & NoSQL (Databse design/Indexing/Performance)
+- SQL & NoSQL (Database design/Indexing/Performance)
 - Python/C#/NodeJS
 - System Design (Docker/K8s/Serverless/AWS Services - Microservices)
 
