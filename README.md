@@ -8,6 +8,11 @@
   </samp>
 </p>
 
+<!-- retro visitor counter -->  
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/{tdkseraph}/count.svg" />  
+</p>  
+
 ## ✨ My Expertise
 - Data Structure & Algorithm
 - React/React Native
